@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/mummyding/编程资料/源码/Android/Demo/SchoolTimetable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/media/mummyding/编程资料/源码/Android/Demo/SchoolTimetable/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-423db852bb96fa4378dae5d70a956a9c1d8ecc50.jar" />
+    </item>
+    <item
+        jar="/media/mummyding/编程资料/源码/Android/Demo/SchoolTimetable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/media/mummyding/编程资料/源码/Android/Demo/SchoolTimetable/app/build/intermediates/pre-dexed/debug/classes-ac404d34dcda0bafa10ad5074dd8cc32b2df5b01.jar" />
+    </item>
+    <item
+        jar="/home/mummyding/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/media/mummyding/编程资料/源码/Android/Demo/SchoolTimetable/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-a3be90854cb40655677cf787624c932732206285.jar" />
+    </item>
+    <item
+        jar="/media/mummyding/编程资料/源码/Android/Demo/SchoolTimetable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/media/mummyding/编程资料/源码/Android/Demo/SchoolTimetable/app/build/intermediates/pre-dexed/debug/classes-4c5cf3037eb90fa02056e0913822ed93c2c42936.jar" />
+    </item>
+
+</items>

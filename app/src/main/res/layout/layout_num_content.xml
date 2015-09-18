@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="50px"
+    android:layout_height="600dp"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:text="1"
+        style="@style/style_text_num"  />
+    <TextView
+        android:text="2"
+        style="@style/style_text_num" />
+    <TextView
+        android:text="3"
+        style="@style/style_text_num"
+        />
+    <TextView
+        android:text="4"
+        style="@style/style_text_num"
+        />
+    <TextView
+        android:text="5"
+        style="@style/style_text_num"/>
+    <TextView
+        android:text="6"
+        style="@style/style_text_num"
+        />
+    <TextView
+        android:text="7"
+        style="@style/style_text_num"
+        />
+    <TextView
+        android:text="8"
+        style="@style/style_text_num"
+        />
+    <TextView
+        android:text="9"
+        style="@style/style_text_num"
+        />
+    <TextView
+        android:text="10"
+        style="@style/style_text_num"
+        />
+    <TextView
+        android:text="11"
+        style="@style/style_text_num"
+        />
+    <TextView
+        android:text="12"
+        style="@style/style_text_num"
+        />
+</LinearLayout>
